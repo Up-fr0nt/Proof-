@@ -15,3 +15,6 @@ local cryptographic commitments that can be verified independently.
 1. A proof is generated locally from a file
 2. The file is never uploaded
 3. Anyone can verify a file against a proof using mathematics
+
+## License
+This project is licensed under the Business Source License 1.1.
